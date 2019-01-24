@@ -1,4 +1,4 @@
-# Deep Learning Face Face Generator
+# Deep Learning Fake Face Generator
 Author: Peizhi Yan 
 
 Personal website: PeizhiYan.github.io
